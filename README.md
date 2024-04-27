@@ -30,7 +30,7 @@ Para começar a trabalhar neste projeto, siga estas etapas simples:
 
 Este projeto contém apenas um arquivo até o momento:
 
-- `main.py`: Um arquivo de script Python básico que imprime "Hello, World!" no console.
+- `Program.cs`: Um arquivo em C# básico que imprime "Hello, World!" no console.
 
 ## Contribuindo
 
